@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\anton\source\repos\dll1\project1\source.cpp(20): error C2660: Ex::MTranslater::RadToDeg: функция не принимает 2 аргументов
+c:\users\anton\source\repos\dll1\project1\source.cpp(23): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\anton\source\repos\dll1\project1\source.cpp(24): error C2065: n: необъявленный идентификатор
+c:\users\anton\source\repos\dll1\project1\source.cpp(24): error C2065: R: необъявленный идентификатор
+c:\users\anton\source\repos\dll1\project1\source.cpp(25): error C2065: n: необъявленный идентификатор
+c:\users\anton\source\repos\dll1\project1\source.cpp(25): error C2065: R: необъявленный идентификатор
