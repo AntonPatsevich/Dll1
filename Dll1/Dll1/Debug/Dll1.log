@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Dll1.cpp
+c:\users\anton\source\repos\dll1\dll1\dll1.cpp(10): warning C4273: Ex::MTranslater::RadToDeg: несовместимая компоновка dll
+  c:\users\anton\source\repos\dll1\dll1\header.h(12): note: см. предыдущее определение "RadToDeg"
+  dllmain.cpp
+  Создание кода...
+     Создается библиотека C:\Users\Anton\source\repos\Dll1\Debug\Dll1.lib и объект C:\Users\Anton\source\repos\Dll1\Debug\Dll1.exp
+  Dll1.vcxproj -> C:\Users\Anton\source\repos\Dll1\Debug\Dll1.dll
